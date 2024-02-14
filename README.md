@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Hardie from Nashville, TN<br><br>- 🔭 I’m working as a Construction Project Manager for Toyota Motors<br>- 📚 I'm currently learning C/C++<br>- ⚡ In my free time I snowboard and travel<br>- 🤝 Open to collaboration</p>
+<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 I’m working as a Construction Project Manager for Toyota Motors<br>- 📚 I'm currently learning C/C++<br>- ⚡ In my free time I enjoy snowboarding and being a dad<br>- 🤝 Open to collaboration</p>
 
 ###
 
