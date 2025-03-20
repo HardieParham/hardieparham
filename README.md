@@ -61,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40"/>  
 </div>
 
-
+<!--
 <h4 align="left">Desktop Apps</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" height="40" />
@@ -72,7 +72,6 @@
 
 ###
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
