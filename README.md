@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 I’m working as a Construction Project Manager for Toyota Motors<br>- ⚡ In my free time I enjoy snowboarding and being a dad<br>- 🤝 Open to collaboration</p>
+<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 I’m working as a Structural/Mechanical Engineer for a roller coaster company!<br>- ⚡ In my free time I enjoy snowboarding and being a dad<br>- 🤝 Open to collaboration</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">Backend</h4>
+<h4 align="left">Backend + Hosting</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40"/>
   <img width="12" />
@@ -42,8 +42,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="40"/>
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="40"/>
@@ -51,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40"/>
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/bulma-icon-352x512-b0faxtog.png" height="40"/>
 </div>
 
 
