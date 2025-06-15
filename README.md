@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 I’m working as a Structural/Mechanical Engineer for a roller coaster company!<br>- ⚡ In my free time I enjoy snowboarding and being a dad<br>- 🤝 Open to collaboration</p>
+<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 Owner/Founder of Cozymugg Software.<br>- ⚡ In my free time I enjoy snowboarding and being a dad</p>
 
 ###
 
