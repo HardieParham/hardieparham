@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/free-vector/retro-80s-landscape-scene-game-style_1017-32947.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707782400&semt=sph"  />
+  <img height="150" src="https://www.cozymuggsoftware.com/static/images/cozymugg_software_cover2.png"  />
 </div>
 
 ###
@@ -12,10 +12,10 @@
 
 ###
 
-<p align="left">I'm Hardie from Nashville, TN. I dabble in WebDev, GameDev, Desktop Apps, and Scripting<br><br>- 🔭 Owner/Founder of Cozymugg Software.<br>- ⚡ In my free time I enjoy snowboarding and being a dad<br>- 📫 How to reach me: hardie@cozymuggsoftware.com </p>
+<p align="left">- 🌱 Full-time Civil Engineer.<br>- 🔭 Owner/Founder of Cozymugg Software.<br>- ⚡ In my free time I enjoy snowboarding and being a dad.<br>- 📫 How to reach me: hardie@cozymuggsoftware.com </p>
 
+<!--
 ###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40"/>
 </div>
 
-<!--
+
 <h4 align="left">Desktop Apps</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-plain.svg" height="40" />
