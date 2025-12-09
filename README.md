@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.cozymuggsoftware.com/static/images/cozymugg_software_cover2.png"  />
+  <img height="150" src="https://www.cozymuggsoftware.com/static/images/new_banner_5.png"  />
 </div>
 
 ###
